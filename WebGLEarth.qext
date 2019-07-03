@@ -1,0 +1,16 @@
+{
+    "name": "WebGLEarth",
+    "description": "Implement a WebGL Earth Interactive Globe with Placemarks.",
+    "type": "visualization",
+    "version": "1.1.0",
+    "icon": "extension",
+    "author": "A Garbin",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    },
+    "preview": "WebGLEarth_logo.png"
+}
